@@ -1,0 +1,22 @@
+{
+  "name": "MYSegmentedControl",
+  "version": "0.1.0",
+  "summary": "A short description of MYSegmentedControl.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/330200387@qq.com/MYSegmentedControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "330200387@qq.com": "330200387@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/330200387@qq.com/MYSegmentedControl.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "MYSegmentedControl/Classes/**/*"
+}

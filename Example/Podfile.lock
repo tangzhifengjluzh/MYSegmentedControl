@@ -1,0 +1,16 @@
+PODS:
+  - MYSegmentedControl (0.1.0)
+
+DEPENDENCIES:
+  - MYSegmentedControl (from `../`)
+
+EXTERNAL SOURCES:
+  MYSegmentedControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MYSegmentedControl: b789fba256c2c04a202e3e6a8bcace1f3557f7ea
+
+PODFILE CHECKSUM: b70b54409a011bc3ea30814558212739594b272f
+
+COCOAPODS: 1.8.4
