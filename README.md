@@ -1,5 +1,5 @@
 # MYSegmentedControl
-
+![](Example/A1E0971D-C759-4F58-9801-37E52B391A0B.png)
 [![CI Status](https://img.shields.io/travis/330200387@qq.com/MYSegmentedControl.svg?style=flat)](https://travis-ci.org/330200387@qq.com/MYSegmentedControl)
 [![Version](https://img.shields.io/cocoapods/v/MYSegmentedControl.svg?style=flat)](https://cocoapods.org/pods/MYSegmentedControl)
 [![License](https://img.shields.io/cocoapods/l/MYSegmentedControl.svg?style=flat)](https://cocoapods.org/pods/MYSegmentedControl)
