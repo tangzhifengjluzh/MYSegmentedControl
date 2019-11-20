@@ -48,4 +48,8 @@ OC
     [self.window.contentView addSubview:self.sege];
     self.sege.delegate = self;
     self.sege.frame = CGRectMake(150, 300, 200, 26);
-        
+ //代理
+- (void)selectTitleIndex:(NSInteger)index
+{
+    NSLog(@"选择了第%ld个标签",index);
+}
