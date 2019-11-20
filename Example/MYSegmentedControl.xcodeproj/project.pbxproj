@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		520ED4B8727E91DB8FA5561E /* Pods_MYSegmentedControl_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 01C9746E1ED8B165C8AF2A23 /* Pods_MYSegmentedControl_Tests.framework */; };
 		595CF0349EC092C66F86AA14 /* Pods_MYSegmentedControl_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 34039B9B3689C466522CD2AC /* Pods_MYSegmentedControl_Example.framework */; };
+		CCD675E72385421400B857B0 /* A1E0971D-C759-4F58-9801-37E52B391A0B.png in Resources */ = {isa = PBXBuildFile; fileRef = CCD675E62385421400B857B0 /* A1E0971D-C759-4F58-9801-37E52B391A0B.png */; };
 		ED83F67C20348A760038D96B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED83F67B20348A760038D96B /* AppDelegate.swift */; };
 		ED83F67E20348A760038D96B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED83F67D20348A760038D96B /* ViewController.swift */; };
 		ED83F68020348A760038D96B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED83F67F20348A760038D96B /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 		72230AF9D03C0B184A56D976 /* Pods-MYSegmentedControl_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MYSegmentedControl_Tests.release.xcconfig"; path = "Target Support Files/Pods-MYSegmentedControl_Tests/Pods-MYSegmentedControl_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		9A1B3BA7EDB878C722E70E7B /* Pods-MYSegmentedControl_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MYSegmentedControl_Tests.debug.xcconfig"; path = "Target Support Files/Pods-MYSegmentedControl_Tests/Pods-MYSegmentedControl_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		C3D57C6F7DB636820AC66775 /* Pods-MYSegmentedControl_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MYSegmentedControl_Example.release.xcconfig"; path = "Target Support Files/Pods-MYSegmentedControl_Example/Pods-MYSegmentedControl_Example.release.xcconfig"; sourceTree = "<group>"; };
+		CCD675E62385421400B857B0 /* A1E0971D-C759-4F58-9801-37E52B391A0B.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "A1E0971D-C759-4F58-9801-37E52B391A0B.png"; sourceTree = "<group>"; };
 		ED83F67820348A760038D96B /* MYSegmentedControl_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MYSegmentedControl_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED83F67B20348A760038D96B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ED83F67D20348A760038D96B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 		ED83F66F20348A760038D96B = {
 			isa = PBXGroup;
 			children = (
+				CCD675E62385421400B857B0 /* A1E0971D-C759-4F58-9801-37E52B391A0B.png */,
 				ED83F69A20348B650038D96B /* Podspec Metadata */,
 				ED83F67A20348A760038D96B /* MYSegmentedControl */,
 				ED83F68D20348A760038D96B /* Tests */,
@@ -228,6 +231,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED83F68020348A760038D96B /* Assets.xcassets in Resources */,
+				CCD675E72385421400B857B0 /* A1E0971D-C759-4F58-9801-37E52B391A0B.png in Resources */,
 				ED83F68320348A760038D96B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
