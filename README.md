@@ -29,12 +29,14 @@ pod 'MYSegmentedControl'
 MYSegmentedControl is available under the MIT license. See the LICENSE file for more info.
 
 swift
+
         let sege = HWSegmentedControl()
         sege.titles = ["One","Two","Three"]        
         sege.frame = NSRect(x: 150, y: 300, width: 200, height: 26)
         self.window.contentView?.addSubview(sege)
         
 OC
+
 @property (nonatomic, strong) HWSegmentedControl  *sege;
 
 
