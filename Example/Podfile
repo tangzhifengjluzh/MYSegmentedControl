@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MYSegmentedControl_Example' do
+  pod 'MYSegmentedControl', :path => '../'
+
+  target 'MYSegmentedControl_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
